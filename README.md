@@ -1,4 +1,0 @@
-TesteSingleton
-==============
-
-Meu trabalho
